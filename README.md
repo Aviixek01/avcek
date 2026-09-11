@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
 | [1480-running-sum-of-1d-array](https://github.com/Aviixek01/avcek/tree/master/1480-running-sum-of-1d-array) |
 | [2460-apply-operations-to-an-array](https://github.com/Aviixek01/avcek/tree/master/2460-apply-operations-to-an-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Aviixek01/avcek/tree/master/2574-left-and-right-sum-differences) |
 ## Simulation
 |  |
 | ------- |
@@ -62,4 +63,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Aviixek01/avcek/tree/master/1480-running-sum-of-1d-array) |
+| [2574-left-and-right-sum-differences](https://github.com/Aviixek01/avcek/tree/master/2574-left-and-right-sum-differences) |
 <!---LeetCode Topics End-->
