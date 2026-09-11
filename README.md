@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aviixek01/avcek/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aviixek01/avcek/tree/master/0027-remove-element) |
+| [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
 | [2460-apply-operations-to-an-array](https://github.com/Aviixek01/avcek/tree/master/2460-apply-operations-to-an-array) |
 ## Simulation
 |  |
@@ -36,4 +37,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aviixek01/avcek/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Hash Table
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
+## Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
