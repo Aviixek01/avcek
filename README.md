@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2094-finding-3-digit-even-numbers](https://github.com/Aviixek01/avcek/tree/master/2094-finding-3-digit-even-numbers) |
 | [2460-apply-operations-to-an-array](https://github.com/Aviixek01/avcek/tree/master/2460-apply-operations-to-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aviixek01/avcek/tree/master/2574-left-and-right-sum-differences) |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Aviixek01/avcek/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aviixek01/avcek/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -127,4 +128,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Aviixek01/avcek/tree/master/0523-continuous-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Aviixek01/avcek/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+## Sliding Window
+|  |
+| ------- |
+| [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Aviixek01/avcek/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 <!---LeetCode Topics End-->
