@@ -14,10 +14,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aviixek01/avcek/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Aviixek01/avcek/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Aviixek01/avcek/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aviixek01/avcek/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aviixek01/avcek/tree/master/0027-remove-element) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aviixek01/avcek/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -136,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Aviixek01/avcek/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Aviixek01/avcek/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
