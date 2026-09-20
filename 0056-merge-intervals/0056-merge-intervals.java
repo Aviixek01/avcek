@@ -4,7 +4,7 @@ class Solution {
         ArrayList<int[]>result = new ArrayList<>();
         Arrays.sort(intervals,(a,b) -> a[0]-b[0]);
         int[] current = intervals[0];
-        for(int i = 0; i < n;i++) {
+        for(int i = 1; i < n;i++) {
             
             int[] next = intervals[i];
             if(next[0] <= current[1]) {
