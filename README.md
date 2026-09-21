@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aviixek01/avcek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aviixek01/avcek/tree/master/0189-rotate-array) |
+| [0435-non-overlapping-intervals](https://github.com/Aviixek01/avcek/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/Aviixek01/avcek/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aviixek01/avcek/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aviixek01/avcek/tree/master/0560-subarray-sum-equals-k) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Aviixek01/avcek/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
+| [0435-non-overlapping-intervals](https://github.com/Aviixek01/avcek/tree/master/0435-non-overlapping-intervals) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aviixek01/avcek/tree/master/2094-finding-3-digit-even-numbers) |
 ## Counting
 |  |
@@ -129,10 +131,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aviixek01/avcek/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aviixek01/avcek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Aviixek01/avcek/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aviixek01/avcek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0435-non-overlapping-intervals](https://github.com/Aviixek01/avcek/tree/master/0435-non-overlapping-intervals) |
 ## Pigeonhole Principle
 |  |
 | ------- |
