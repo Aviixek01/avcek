@@ -10,10 +10,10 @@ class Solution {
                if(start <= end) {
                   list.add(new int[]{start , end});
                }
-              if(firstList[i][1] > secondList[j][1]) {
-                 j++;
-              } else {
+              if(firstList[i][1] < secondList[j][1]) {
                  i++;
+              } else {
+                 j++;
               }
          }
          return list.toArray(new int[list.size()][]);
