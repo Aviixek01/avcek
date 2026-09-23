@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Aviixek01/avcek/tree/master/0986-interval-list-intersections) |
 | [1480-running-sum-of-1d-array](https://github.com/Aviixek01/avcek/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aviixek01/avcek/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aviixek01/avcek/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Aviixek01/avcek/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Aviixek01/avcek/tree/master/1991-find-the-middle-index-in-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aviixek01/avcek/tree/master/2094-finding-3-digit-even-numbers) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Aviixek01/avcek/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aviixek01/avcek/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aviixek01/avcek/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aviixek01/avcek/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aviixek01/avcek/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aviixek01/avcek/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aviixek01/avcek/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Aviixek01/avcek/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aviixek01/avcek/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aviixek01/avcek/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/Aviixek01/avcek/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Aviixek01/avcek/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aviixek01/avcek/tree/master/2574-left-and-right-sum-differences) |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aviixek01/avcek/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Aviixek01/avcek/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Trie
 |  |
@@ -164,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Aviixek01/avcek/tree/master/0986-interval-list-intersections) |
+## Binary Search
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aviixek01/avcek/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
