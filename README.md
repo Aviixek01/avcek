@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aviixek01/avcek/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Aviixek01/avcek/tree/master/0228-summary-ranges) |
+| [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Aviixek01/avcek/tree/master/0435-non-overlapping-intervals) |
 | [0523-continuous-subarray-sum](https://github.com/Aviixek01/avcek/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aviixek01/avcek/tree/master/0525-contiguous-array) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Aviixek01/avcek/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Aviixek01/avcek/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aviixek01/avcek/tree/master/0560-subarray-sum-equals-k) |
@@ -85,11 +87,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Aviixek01/avcek/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Aviixek01/avcek/tree/master/0435-non-overlapping-intervals) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aviixek01/avcek/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aviixek01/avcek/tree/master/2094-finding-3-digit-even-numbers) |
@@ -97,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -179,5 +184,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
 | [1046-last-stone-weight](https://github.com/Aviixek01/avcek/tree/master/1046-last-stone-weight) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
