@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Aviixek01/avcek/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aviixek01/avcek/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Aviixek01/avcek/tree/master/0724-find-pivot-index) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aviixek01/avcek/tree/master/0918-maximum-sum-circular-subarray) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aviixek01/avcek/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0986-interval-list-intersections](https://github.com/Aviixek01/avcek/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/Aviixek01/avcek/tree/master/1046-last-stone-weight) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aviixek01/avcek/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aviixek01/avcek/tree/master/0918-maximum-sum-circular-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aviixek01/avcek/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aviixek01/avcek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Aviixek01/avcek/tree/master/0435-non-overlapping-intervals) |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aviixek01/avcek/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -215,4 +218,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/Aviixek01/avcek/tree/master/2396-strictly-palindromic-number) |
+## Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aviixek01/avcek/tree/master/0918-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/Aviixek01/avcek/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
