@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Aviixek01/avcek/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aviixek01/avcek/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aviixek01/avcek/tree/master/0151-reverse-words-in-a-string) |
+| [0415-add-strings](https://github.com/Aviixek01/avcek/tree/master/0415-add-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aviixek01/avcek/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aviixek01/avcek/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aviixek01/avcek/tree/master/3498-reverse-degree-of-a-string) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Aviixek01/avcek/tree/master/0415-add-strings) |
 | [2460-apply-operations-to-an-array](https://github.com/Aviixek01/avcek/tree/master/2460-apply-operations-to-an-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aviixek01/avcek/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Aviixek01/avcek/tree/master/0189-rotate-array) |
+| [0415-add-strings](https://github.com/Aviixek01/avcek/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Aviixek01/avcek/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Aviixek01/avcek/tree/master/0836-rectangle-overlap) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aviixek01/avcek/tree/master/1588-sum-of-all-odd-length-subarrays) |
