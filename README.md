@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aviixek01/avcek/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aviixek01/avcek/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/Aviixek01/avcek/tree/master/0415-add-strings) |
+| [0856-score-of-parentheses](https://github.com/Aviixek01/avcek/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aviixek01/avcek/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aviixek01/avcek/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aviixek01/avcek/tree/master/3498-reverse-degree-of-a-string) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aviixek01/avcek/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aviixek01/avcek/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Aviixek01/avcek/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aviixek01/avcek/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aviixek01/avcek/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aviixek01/avcek/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Aviixek01/avcek/tree/master/0032-longest-valid-parentheses) |
+| [0856-score-of-parentheses](https://github.com/Aviixek01/avcek/tree/master/0856-score-of-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Aviixek01/avcek/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Aviixek01/avcek/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Brainteaser
