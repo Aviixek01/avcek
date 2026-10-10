@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aviixek01/avcek/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Aviixek01/avcek/tree/master/0228-summary-ranges) |
 | [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aviixek01/avcek/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Aviixek01/avcek/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/Aviixek01/avcek/tree/master/0506-relative-ranks) |
 | [0523-continuous-subarray-sum](https://github.com/Aviixek01/avcek/tree/master/0523-continuous-subarray-sum) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Aviixek01/avcek/tree/master/0056-merge-intervals) |
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aviixek01/avcek/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Aviixek01/avcek/tree/master/0435-non-overlapping-intervals) |
 | [0506-relative-ranks](https://github.com/Aviixek01/avcek/tree/master/0506-relative-ranks) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aviixek01/avcek/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -211,11 +213,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aviixek01/avcek/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aviixek01/avcek/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aviixek01/avcek/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Aviixek01/avcek/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aviixek01/avcek/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/Aviixek01/avcek/tree/master/1046-last-stone-weight) |
@@ -271,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aviixek01/avcek/tree/master/0703-kth-largest-element-in-a-stream) |
+## Matrix
+|  |
+| ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aviixek01/avcek/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
