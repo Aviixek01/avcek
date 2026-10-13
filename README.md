@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aviixek01/avcek/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aviixek01/avcek/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aviixek01/avcek/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aviixek01/avcek/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aviixek01/avcek/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Aviixek01/avcek/tree/master/0207-course-schedule) |
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aviixek01/avcek/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
@@ -306,4 +309,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aviixek01/avcek/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Aviixek01/avcek/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
