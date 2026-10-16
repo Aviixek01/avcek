@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Aviixek01/avcek/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aviixek01/avcek/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aviixek01/avcek/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aviixek01/avcek/tree/master/1971-find-if-path-exists-in-graph) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aviixek01/avcek/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0506-relative-ranks](https://github.com/Aviixek01/avcek/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aviixek01/avcek/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
 | [1046-last-stone-weight](https://github.com/Aviixek01/avcek/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Aviixek01/avcek/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aviixek01/avcek/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aviixek01/avcek/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aviixek01/avcek/tree/master/1971-find-if-path-exists-in-graph) |
@@ -306,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/Aviixek01/avcek/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Aviixek01/avcek/tree/master/0210-course-schedule-ii) |
+| [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aviixek01/avcek/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aviixek01/avcek/tree/master/1971-find-if-path-exists-in-graph) |
@@ -339,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aviixek01/avcek/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
