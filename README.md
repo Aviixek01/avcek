@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Aviixek01/avcek/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aviixek01/avcek/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aviixek01/avcek/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aviixek01/avcek/tree/master/1971-find-if-path-exists-in-graph) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Aviixek01/avcek/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aviixek01/avcek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0435-non-overlapping-intervals](https://github.com/Aviixek01/avcek/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Aviixek01/avcek/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aviixek01/avcek/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0918-maximum-sum-circular-subarray](https://github.com/Aviixek01/avcek/tree/master/0918-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Aviixek01/avcek/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Aviixek01/avcek/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aviixek01/avcek/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/Aviixek01/avcek/tree/master/1046-last-stone-weight) |
 ## Bucket Sort
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Aviixek01/avcek/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aviixek01/avcek/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aviixek01/avcek/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aviixek01/avcek/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/Aviixek01/avcek/tree/master/0210-course-schedule-ii) |
 | [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aviixek01/avcek/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aviixek01/avcek/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aviixek01/avcek/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
@@ -347,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Aviixek01/avcek/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
