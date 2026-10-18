@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/Aviixek01/avcek/tree/master/0986-interval-list-intersections) |
 | [1046-last-stone-weight](https://github.com/Aviixek01/avcek/tree/master/1046-last-stone-weight) |
 | [1480-running-sum-of-1d-array](https://github.com/Aviixek01/avcek/tree/master/1480-running-sum-of-1d-array) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aviixek01/avcek/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aviixek01/avcek/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aviixek01/avcek/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aviixek01/avcek/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aviixek01/avcek/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aviixek01/avcek/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Aviixek01/avcek/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Aviixek01/avcek/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/Aviixek01/avcek/tree/master/0797-all-paths-from-source-to-target) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aviixek01/avcek/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Aviixek01/avcek/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Coloring
 |  |
@@ -357,4 +360,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Aviixek01/avcek/tree/master/0743-network-delay-time) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aviixek01/avcek/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aviixek01/avcek/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aviixek01/avcek/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Aviixek01/avcek/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
