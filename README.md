@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Aviixek01/avcek/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aviixek01/avcek/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Aviixek01/avcek/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/Aviixek01/avcek/tree/master/0287-find-the-duplicate-number) |
 | [0986-interval-list-intersections](https://github.com/Aviixek01/avcek/tree/master/0986-interval-list-intersections) |
 | [2396-strictly-palindromic-number](https://github.com/Aviixek01/avcek/tree/master/2396-strictly-palindromic-number) |
 | [2460-apply-operations-to-an-array](https://github.com/Aviixek01/avcek/tree/master/2460-apply-operations-to-an-array) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Aviixek01/avcek/tree/master/0189-rotate-array) |
 | [0228-summary-ranges](https://github.com/Aviixek01/avcek/tree/master/0228-summary-ranges) |
+| [0287-find-the-duplicate-number](https://github.com/Aviixek01/avcek/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aviixek01/avcek/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/Aviixek01/avcek/tree/master/0435-non-overlapping-intervals) |
@@ -207,10 +209,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aviixek01/avcek/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/Aviixek01/avcek/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aviixek01/avcek/tree/master/0287-find-the-duplicate-number) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Aviixek01/avcek/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Sliding Window
 |  |
@@ -232,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aviixek01/avcek/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aviixek01/avcek/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aviixek01/avcek/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aviixek01/avcek/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -390,4 +395,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aviixek01/avcek/tree/master/1584-min-cost-to-connect-all-points) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aviixek01/avcek/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
