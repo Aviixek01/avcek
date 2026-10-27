@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/Aviixek01/avcek/tree/master/1046-last-stone-weight) |
 | [1254-number-of-closed-islands](https://github.com/Aviixek01/avcek/tree/master/1254-number-of-closed-islands) |
 | [1480-running-sum-of-1d-array](https://github.com/Aviixek01/avcek/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Aviixek01/avcek/tree/master/1512-number-of-good-pairs) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Aviixek01/avcek/tree/master/1584-min-cost-to-connect-all-points) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aviixek01/avcek/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aviixek01/avcek/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Aviixek01/avcek/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Aviixek01/avcek/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Aviixek01/avcek/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1512-number-of-good-pairs](https://github.com/Aviixek01/avcek/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Aviixek01/avcek/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aviixek01/avcek/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aviixek01/avcek/tree/master/2094-finding-3-digit-even-numbers) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Aviixek01/avcek/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Aviixek01/avcek/tree/master/0347-top-k-frequent-elements) |
+| [1512-number-of-good-pairs](https://github.com/Aviixek01/avcek/tree/master/1512-number-of-good-pairs) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -183,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Aviixek01/avcek/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Aviixek01/avcek/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Aviixek01/avcek/tree/master/0836-rectangle-overlap) |
+| [1512-number-of-good-pairs](https://github.com/Aviixek01/avcek/tree/master/1512-number-of-good-pairs) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aviixek01/avcek/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/Aviixek01/avcek/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Aviixek01/avcek/tree/master/2469-convert-the-temperature) |
