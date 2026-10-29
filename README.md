@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/Aviixek01/avcek/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [2396-strictly-palindromic-number](https://github.com/Aviixek01/avcek/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/Aviixek01/avcek/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Aviixek01/avcek/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Aviixek01/avcek/tree/master/2652-sum-multiples) |
 ## Geometry
 |  |
