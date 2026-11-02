@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/Aviixek01/avcek/tree/master/0032-longest-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Aviixek01/avcek/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aviixek01/avcek/tree/master/0151-reverse-words-in-a-string) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Aviixek01/avcek/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Aviixek01/avcek/tree/master/0415-add-strings) |
 | [0678-valid-parenthesis-string](https://github.com/Aviixek01/avcek/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Aviixek01/avcek/tree/master/0709-to-lower-case) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Aviixek01/avcek/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Aviixek01/avcek/tree/master/0367-valid-perfect-square) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Aviixek01/avcek/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Aviixek01/avcek/tree/master/0415-add-strings) |
 | [0523-continuous-subarray-sum](https://github.com/Aviixek01/avcek/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Aviixek01/avcek/tree/master/0836-rectangle-overlap) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Aviixek01/avcek/tree/master/0287-find-the-duplicate-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Aviixek01/avcek/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Aviixek01/avcek/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
 ## Sliding Window
 |  |
