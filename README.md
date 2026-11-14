@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Aviixek01/avcek/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2942-find-words-containing-character](https://github.com/Aviixek01/avcek/tree/master/2942-find-words-containing-character) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Aviixek01/avcek/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aviixek01/avcek/tree/master/3364-minimum-positive-sum-subarray) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aviixek01/avcek/tree/master/3483-unique-3-digit-even-numbers) |
 | [3487-maximum-unique-subarray-sum-after-deletion](https://github.com/Aviixek01/avcek/tree/master/3487-maximum-unique-subarray-sum-after-deletion) |
 ## Simulation
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Aviixek01/avcek/tree/master/1732-find-the-highest-altitude) |
 | [1991-find-the-middle-index-in-array](https://github.com/Aviixek01/avcek/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Aviixek01/avcek/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aviixek01/avcek/tree/master/3364-minimum-positive-sum-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aviixek01/avcek/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3095-shortest-subarray-with-or-at-least-k-i](https://github.com/Aviixek01/avcek/tree/master/3095-shortest-subarray-with-or-at-least-k-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/Aviixek01/avcek/tree/master/3364-minimum-positive-sum-subarray) |
 ## Trie
 |  |
 | ------- |
