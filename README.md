@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Aviixek01/avcek/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Aviixek01/avcek/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Aviixek01/avcek/tree/master/0415-add-strings) |
+| [0441-arranging-coins](https://github.com/Aviixek01/avcek/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/Aviixek01/avcek/tree/master/0523-continuous-subarray-sum) |
 | [0728-self-dividing-numbers](https://github.com/Aviixek01/avcek/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Aviixek01/avcek/tree/master/0836-rectangle-overlap) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Aviixek01/avcek/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Aviixek01/avcek/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Aviixek01/avcek/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0441-arranging-coins](https://github.com/Aviixek01/avcek/tree/master/0441-arranging-coins) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Aviixek01/avcek/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Aviixek01/avcek/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Aviixek01/avcek/tree/master/2089-find-target-indices-after-sorting-array) |
