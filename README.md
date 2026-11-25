@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Aviixek01/avcek/tree/master/0326-power-of-three) |
 | [2094-finding-3-digit-even-numbers](https://github.com/Aviixek01/avcek/tree/master/2094-finding-3-digit-even-numbers) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Aviixek01/avcek/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aviixek01/avcek/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/Aviixek01/avcek/tree/master/0189-rotate-array) |
 | [0319-bulb-switcher](https://github.com/Aviixek01/avcek/tree/master/0319-bulb-switcher) |
+| [0326-power-of-three](https://github.com/Aviixek01/avcek/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/Aviixek01/avcek/tree/master/0367-valid-perfect-square) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Aviixek01/avcek/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Aviixek01/avcek/tree/master/0415-add-strings) |
