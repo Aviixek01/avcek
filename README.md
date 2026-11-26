@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Aviixek01/avcek/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Aviixek01/avcek/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2460-apply-operations-to-an-array](https://github.com/Aviixek01/avcek/tree/master/2460-apply-operations-to-an-array) |
+| [3360-stone-removal-game](https://github.com/Aviixek01/avcek/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/Aviixek01/avcek/tree/master/3498-reverse-degree-of-a-string) |
 ## Tree
 |  |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/Aviixek01/avcek/tree/master/2469-convert-the-temperature) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Aviixek01/avcek/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/Aviixek01/avcek/tree/master/2652-sum-multiples) |
+| [3360-stone-removal-game](https://github.com/Aviixek01/avcek/tree/master/3360-stone-removal-game) |
 ## Geometry
 |  |
 | ------- |
