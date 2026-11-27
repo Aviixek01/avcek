@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Aviixek01/avcek/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/Aviixek01/avcek/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Aviixek01/avcek/tree/master/0451-sort-characters-by-frequency) |
+| [0551-student-attendance-record-i](https://github.com/Aviixek01/avcek/tree/master/0551-student-attendance-record-i) |
 | [0678-valid-parenthesis-string](https://github.com/Aviixek01/avcek/tree/master/0678-valid-parenthesis-string) |
 | [0709-to-lower-case](https://github.com/Aviixek01/avcek/tree/master/0709-to-lower-case) |
 | [0856-score-of-parentheses](https://github.com/Aviixek01/avcek/tree/master/0856-score-of-parentheses) |
